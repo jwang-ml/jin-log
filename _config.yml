@@ -25,7 +25,7 @@ title: "Jin's Blog"
 description: 'Document my learning notes.'
 author: 'Jin Wang'
 baseurl: ""
-url: "http://jwang-ml.github.io"
+url: "http://jwang-ml.github.io/jin-log"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
