@@ -11,7 +11,8 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-#paginate:            5
+paginate:            5
+github: [metadata]
 
 # Build settings
 markdown:            kramdown
