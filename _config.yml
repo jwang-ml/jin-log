@@ -11,7 +11,7 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            5
+#paginate:            5
 
 # Build settings
 markdown:            kramdown
@@ -20,11 +20,11 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Jin's Blog"
-description:	       'Document my learning notes.'
-author:              'Jin Wang'
-baseurl:             ""
-url:                 "http://jwang-ml.github.io"
+title: "Jin's Blog"
+description: 'Document my learning notes.'
+author: 'Jin Wang'
+baseurl: ""
+url: "http://jwang-ml.github.io"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
