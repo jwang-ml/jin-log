@@ -23,8 +23,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "Jin's Blog"
 description:	       'Document my learning notes.'
 author:              'Jin Wang'
-#baseurl: "/blog"
-profile_url: "http://jwang-ml.github.io"
+baseurl:             ""
+url:                 "http://jwang-ml.github.io"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
